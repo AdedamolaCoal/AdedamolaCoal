@@ -1,8 +1,8 @@
 ## Hey there 👋
 
-I'm **Adedamola** — a Fullstack Software Engineer based in Nigeria, building enterprise-grade SaaS from the ground up.
+I'm **Adedamola**, a Fullstack Software Engineer based in Nigeria, building enterprise-grade SaaS from the ground up.
 
-Currently leading the full build-out of **Kortexa ERP**: a multi-module platform covering HR, Finance, CRM, Inventory, Shipping and more — with AI layered in to make enterprise software actually feel seamless. The backend runs on NestJS microservices, the frontend ships as polished Angular, and the web layer on Next.js.
+Currently leading the full build-out of **Kortexa ERP**: a multi-module platform covering HR, Finance, CRM, Inventory, Shipping and more, with AI layered in to make enterprise software actually feel seamless. The backend runs on NestJS microservices, the frontend ships as polished Angular, and the web layer on Next.js.
 
 I specialise in event-driven systems, microservices architecture, and UIs that non-engineers can use without a manual.
 
