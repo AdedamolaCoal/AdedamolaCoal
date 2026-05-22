@@ -1,45 +1,45 @@
 ## Hey there 👋
 
-<# I'm Adedamola, a Fullstack Software engineer, based in Nigeria.
+I'm **Adedamola** — a Fullstack Software Engineer based in Nigeria, building enterprise-grade SaaS from the ground up.
 
-When I'm working on Frontend projects, I'm comfortable working with these frameworks: Angular, React, NextJS, and VueJS.
-Also, I'm very good with Figma, vanilla css, scss, Tailwind, Bremer and BootStrap. 
+Currently leading the full build-out of **Kortexa ERP**: a multi-module platform covering HR, Finance, CRM, Inventory, Shipping and more — with AI layered in to make enterprise software actually feel seamless. The backend runs on NestJS microservices, the frontend ships as polished Angular, and the web layer on Next.js.
 
-When I'm working on Backend projects, my preferred is NodeJs, NestJS or Go.
-
-I build enterprise SaaS softwares, and I'm very familiar and comfortable with Event-Driven systems and Microservices.
+I specialise in event-driven systems, microservices architecture, and UIs that non-engineers can use without a manual.
 
 ---
-I am currently building a large-scale enterprise application from the ground up. The backend run on NestJS microservices, the frontend ships as polished Angular products, and the web on NextJS. Currently leading the full build-out of **Kortexa ERP**: a multi-module ERP platform covering HR, Finance, CRM, Inventory, Shipping and more, with AI to help simplify and make enterprise feel seamless. I care about clean architecture, scalable data models, and UI that non-engineers can actually use.
----
 
-### Stack
+### Tech Stack
 
-**Core**
-`TypeScript` `Angular 2+` `React` `NextJS` `VueJS`
+`TypeScript` `Angular 2+` `React` `Next.js` `Vue.js`
 `Node.js` `NestJS` `Go`
-`PostgreSQL` `MongoDb` `Prisma` `TypeORM` `GORM`
-`Docker` `RabbitMq` `NginX`
+`PostgreSQL` `MongoDB` `Prisma` `TypeORM` `GORM`
+`RabbitMQ` `Docker` `Nginx`
 `AWS` `Azure`
 `Ollama` `LangChain`
 
-**Also work with**
-`Go` `Jetpack Compose`
+Also: `Figma` `Tailwind` `SCSS` `Bootstrap`
 
 ---
 
-### What I'm working on
+### Currently
 
 | | |
 |---|---|
-| **Project** | Kortexa — a full-stack ERP platform |
-| **Focus** | B2B SaaS · Enterprise tooling · Microservices |
-| **Open to** | Senior backend, full-stack, or staff-level roles |
-| **Writing** | Architecture & SaaS patterns on LinkedIn |
+| **Building** | Kortexa ERP — full-stack enterprise platform |
+| **Focus** | B2B SaaS · Microservices · AI-assisted enterprise tooling |
+| **Open to** | Senior / Staff — backend, frontend, or full-stack roles |
+| **Writing** | Architecture & SaaS patterns on [LinkedIn](https://www.linkedin.com/in/damola-akinyomi) |
+
+---
+
+### A bit more
+
+🌍 I speak **English**, **Spanish**, and a little **Italian**
+🎷 When I'm not coding, I'm playing saxophone or spending time with animals
 
 ---
 
 ### Reach me
 
-- LinkedIn: [linkedin.com/in/damola-akinyomi](https://www.linkedin.com/in/damola-akinyomi)
-- Email: dammy0075@gmail.com
+- 💼 [linkedin.com/in/damola-akinyomi](https://www.linkedin.com/in/damola-akinyomi)
+- 📧 dammy0075@gmail.com
