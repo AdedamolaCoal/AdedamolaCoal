@@ -34,8 +34,7 @@ Also: `Figma` `Tailwind` `SCSS` `Bootstrap`
 
 ### A bit more
 
-🌍 I speak **English**, **Spanish**, and a little **Italian**
-🎷 When I'm not coding, I'm playing saxophone or spending time with animals
+🌍 I speak **English**, **Spanish**, and a little **Italian** When I'm not coding, I'm playing saxophone🎷 or spending time with animals
 
 ---
 
