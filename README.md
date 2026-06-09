@@ -34,11 +34,11 @@ Also: `Figma` `Tailwind` `SCSS` `Bootstrap`
 
 ### A bit more
 
-🌍 I speak **English**, **Spanish**, and a little **Italian** When I'm not coding, I'm playing saxophone🎷 or spending time with animals
+I speak **English**, **Spanish**, and a little **Italian** When I'm not coding, I'm playing saxophone🎷 or spending time with animals
 
 ---
 
 ### Reach me
 
-- 💼 [linkedin.com/in/damola-akinyomi](https://www.linkedin.com/in/damola-akinyomi)
-- 📧 dammy0075@gmail.com
+- [linkedin.com/in/damola-akinyomi](https://www.linkedin.com/in/damola-akinyomi)
+- dammy0075@gmail.com
