@@ -11,8 +11,8 @@ I specialise in event-driven systems, microservices architecture, and UIs that n
 ### Tech Stack
 
 `TypeScript` `Angular 2+` `React` `Next.js` `Vue.js`
-`Node.js` `NestJS` `Go`
-`PostgreSQL` `MongoDB` `Prisma` `TypeORM` `GORM`
+`C# (ASP.NET Core)` `GoLang` `Node.js` `NestJS`
+`PostgreSQL` `MongoDB` `EF Core` `GORM` `Prisma` `TypeORM`
 `RabbitMQ` `Docker` `Nginx`
 `AWS` `Azure`
 `Ollama` `LangChain`
